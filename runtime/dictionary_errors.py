@@ -1,0 +1,2 @@
+class DictionaryResourceError(RuntimeError):
+    pass

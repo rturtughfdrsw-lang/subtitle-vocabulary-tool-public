@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "distribution": "source-only",
+  "components": [
+    {
+      "name": "Kaikki / English Wiktionary derived dictionary",
+      "type": "data",
+      "included_paths": [
+        "runtime/vocabulary_resources/dictionary.sqlite3",
+        "runtime/vocabulary_resources/ATTRIBUTION.md",
+        "runtime/vocabulary_resources/LICENSES/CC-BY-SA-4.0.txt"
+      ],
+      "license": "CC-BY-SA-4.0",
+      "source_metadata": "runtime/vocabulary_resources/MANIFEST.json",
+      "status": "included-with-attribution"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# 便携运行基线按原始字节保存，避免 Git 自动改写 PowerShell/VBS 编码或换行符。
+* -text

@@ -1,0 +1,17 @@
+{
+  "build_date": "2026-08-24",
+  "dictionary_bytes": 2129920,
+  "dictionary_file": "dictionary.sqlite3",
+  "dictionary_sha256": "40f98e1a0c8f6d0d6aaadb04e269ca0e038360df83edd5fe50a77ca97e3e6de4",
+  "dictionary_source": "Kaikki / English Wiktionary",
+  "direct_entry_count": 33038,
+  "entry_count": 79425,
+  "form_of_entry_count": 46387,
+  "license": "CC-BY-SA-4.0",
+  "schema_version": 1,
+  "source_date": "2026-08-20",
+  "source_sha256": "a6a32d41e35990b79a886d9082ebb3459a16fbaed6d2995aaedf6ef46d3ee643",
+  "source_url": "https://kaikki.org/dictionary/raw-wiktextract-data.jsonl.gz",
+  "source_version": "enwiktionary-2026-08-05-wiktextract-872fc7b",
+  "wordfreq_version": "3.1.1"
+}

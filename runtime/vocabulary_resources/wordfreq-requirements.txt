@@ -1,0 +1,7 @@
+wordfreq==3.1.1
+ftfy==6.3.1
+langcodes==3.5.1
+locate==1.1.1
+msgpack==1.2.1
+regex==2026.7.19
+wcwidth==0.8.2
